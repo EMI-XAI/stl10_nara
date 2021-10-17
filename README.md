@@ -57,6 +57,8 @@ Output maps are like below:
 <img src="map_00000.png" width="192" height="192"
  alt="Example of annotation map">
 
+Details are printed with `--help` option.
+
 ## Acknowledgement
 
 This result is based on results obtained from a project,
