@@ -1,10 +1,6 @@
 # Non-strict Attentional Region Annotation for STL-10 Dataset
 
-<<<<<<< HEAD
 <img src="blend_00000.png" width="192" height="192"
-=======
-<img src="blend_00000.png" width="288" height="288"
->>>>>>> ff6568b1bdf22805d362786baa3147ed3636b71f
  alt="Example of blended image">
 
 This repository provides non-strict attentional region annotations
@@ -45,12 +41,7 @@ Each column means below:
 | CenterX, CenterY | Center position of ellipse. |
 | RadiusX, RadiusY | Radius of ellipse. |
 | Angle | Rotation of ellipse in radian. |
-<<<<<<< HEAD
 | WorkTime | Working time for each image including both category annotation and region annotation. |
-=======
-| WorkTime | Working time for each image including both category
-             annotation and region annotation. |
->>>>>>> ff6568b1bdf22805d362786baa3147ed3636b71f
 
 ## draw_annotation_maps.py
 
@@ -63,17 +54,11 @@ python draw_annotation_maps.py
 
 Output maps are like below:
 
-<<<<<<< HEAD
 <img src="map_00000.png" width="192" height="192"
  alt="Example of annotation map">
 
 Details are printed with `--help` option.
 
-=======
-<img src="map_00000.png" width="288" height="288"
- alt="Example of annotation map">
-
->>>>>>> ff6568b1bdf22805d362786baa3147ed3636b71f
 ## Acknowledgement
 
 This result is based on results obtained from a project,
