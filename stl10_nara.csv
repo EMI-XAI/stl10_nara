@@ -1,4 +1,4 @@
-Split,Image,ClassGT,Class,CenterX,CenterY,RadiusX,RadiusY,Angle,WorkTime
+Split,Image,CategoryGT,Category,CenterX,CenterY,RadiusX,RadiusY,Angle,WorkTime
 test,10.png,1,1,47.55389608,43.63100639,33.88722942,32.96433972,0.0,87
 test,10.png,1,1,36.5,39.33333333,28.83333333,29.0,0.0,14
 test,10.png,1,1,35.66666667,39.0,20.33333333,19.33333333,0.0,170
