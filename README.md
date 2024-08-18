@@ -63,4 +63,4 @@ Details are printed with `--help` option.
 
 This result is based on results obtained from a project,
 JPNP20001221-0, commissioned by the New Energy and Industrial
-Technology Department Organization (NEDO).
+Technology Development Organization (NEDO).
