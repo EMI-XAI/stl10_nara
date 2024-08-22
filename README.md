@@ -59,7 +59,7 @@ Output maps are like below:
 
 Details are printed with `--help` option.
 
-## Acknowledgement
+## Acknowledgements
 
 This result is based on results obtained from a project,
 JPNP20001221-0, commissioned by the New Energy and Industrial
